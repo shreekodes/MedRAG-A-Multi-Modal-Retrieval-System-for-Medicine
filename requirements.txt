@@ -5,3 +5,16 @@ tqdm
 matplotlib
 pydicom
 nibabel
+torch
+transformers
+sentence-transformers
+faiss-cpu
+requests
+beautifulsoup4
+lxml
+streamlit
+fastapi
+uvicorn
+opencv-python
+pillow
+
