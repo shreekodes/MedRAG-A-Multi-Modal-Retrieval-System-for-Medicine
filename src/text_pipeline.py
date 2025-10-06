@@ -28,7 +28,7 @@ def fetch_pubmed(term, retmax=20):
     return out
 
 if __name__ == "__main__":
-    terms = ["glioblastoma MRI", "meningioma MRI", "Alzheimer MRI", "stroke MRI"]
+    terms = ["glioma MRI", "meningioma MRI", "Alzheimer MRI", "Demented MRI"]
     all_docs=[]
     for t in terms:
         docs = fetch_pubmed(t, retmax=5)
