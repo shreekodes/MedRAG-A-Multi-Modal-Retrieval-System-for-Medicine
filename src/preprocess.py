@@ -61,7 +61,7 @@ def process_folder(input_dir, output_dir, label):
                     "orig_file": str(f)
                 })
             except Exception as e:
-                print("⚠️ Skipped:", f, "Error:", e)
+                print("Skipped:", f, "Error:", e)
     return rows
 
 def run_preprocessing(input_dir, output_dir):
@@ -77,7 +77,7 @@ def run_preprocessing(input_dir, output_dir):
     df = pd.DataFrame(all_rows)
     if not df.empty:
         df.to_csv(out_root.parent / "metadata.csv", index=False)
-        print("✅ Saved metadata:", out_root.parent / "metadata.csv")
+        print("Saved metadata:", out_root.parent / "metadata.csv")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -85,3 +85,4 @@ if __name__ == "__main__":
     parser.add_argument("--output_dir", required=True, help="Path to save processed images")
     args = parser.parse_args()
     run_preprocessing(args.input_dir, args.output_dir)
+
