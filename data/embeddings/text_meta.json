@@ -1,0 +1,102 @@
+[
+  {
+    "pmid": "41044660",
+    "title": "Survival risk stratification of 2021 WHO glioblastoma by MRI radiomics and biological exploration.",
+    "topic": "glioblastoma"
+  },
+  {
+    "pmid": "41044469",
+    "title": "Metabolic Shift Mirrors GBM Immunity to Anti-PD-L1 Immunotherapy: A Deuterium MRS Study.",
+    "topic": "glioblastoma"
+  },
+  {
+    "pmid": "41042283",
+    "title": "CMRO2 (DSC-PW) perfusion parameter helps to distinguish between progression and pseudoprogression in patients with glioblastoma.",
+    "topic": "glioblastoma"
+  },
+  {
+    "pmid": "41039275",
+    "title": "Comorbidity burden in elderly high-grade glioma patients: impact on radiotherapy outcomes.",
+    "topic": "glioblastoma"
+  },
+  {
+    "pmid": "41030406",
+    "title": "Late spinal metastasis of glioblastoma multiforme after maximal tumor resection: A case report.",
+    "topic": "glioblastoma"
+  },
+  {
+    "pmid": "41040522",
+    "title": "A deep learning approach for brain tumour classification and detection in MRI images using YOLOv7.",
+    "topic": "meningioma"
+  },
+  {
+    "pmid": "41036050",
+    "title": "Silent growth, striking impact: A rare case of intracranial chondroma and review of literature.",
+    "topic": "meningioma"
+  },
+  {
+    "pmid": "41036047",
+    "title": "Indocyanine green-assisted endoscopic endonasal resection of an olfactory groove meningioma with vascular involvement.",
+    "topic": "meningioma"
+  },
+  {
+    "pmid": "41030408",
+    "title": "Unusual presentation of temporal bone meningioma as chronic otitis media: A case report.",
+    "topic": "meningioma"
+  },
+  {
+    "pmid": "41030389",
+    "title": "Large skull base involvement of rhino-orbital-cerebral mucormycosis with rapidly progressive onset in immunocompetent patient mimicking a sphenoid meningioma.",
+    "topic": "meningioma"
+  },
+  {
+    "pmid": "41047224",
+    "title": "Midlife plasma proteomic profiles indicate altered amyloid and tau processing in former elite rugby players.",
+    "topic": "alzheimer"
+  },
+  {
+    "pmid": "41046632",
+    "title": "Safety and efficacy of transcranial ultrasound stimulation for the treatment of Alzheimer's disease: A randomized, double-blind, placebo-controlled trial.",
+    "topic": "alzheimer"
+  },
+  {
+    "pmid": "41046015",
+    "title": "Cortical functional connectivity changes in amnestic mild cognitive impairment.",
+    "topic": "alzheimer"
+  },
+  {
+    "pmid": "41044395",
+    "title": "Estimation of reference curves for brain atrophy and analysis of robustness to machine effects.",
+    "topic": "alzheimer"
+  },
+  {
+    "pmid": "41044200",
+    "title": "Genome-wide analysis of brain age identifies 59 associated loci and unveils relationships with mental and physical health.",
+    "topic": "alzheimer"
+  },
+  {
+    "pmid": "41047224",
+    "title": "Midlife plasma proteomic profiles indicate altered amyloid and tau processing in former elite rugby players.",
+    "topic": "stroke"
+  },
+  {
+    "pmid": "41046978",
+    "title": "Sepsis is associated with radiological lesions in patients with primary brain injuries: the result of a bicentric retrospective cohort.",
+    "topic": "stroke"
+  },
+  {
+    "pmid": "41045791",
+    "title": "Using \"HINTS family\" to diagnose stroke in the acute vestibular syndrome: A systematic review and meta-analysis.",
+    "topic": "stroke"
+  },
+  {
+    "pmid": "41044815",
+    "title": "Relationships Between Lateral Ventricle Size, Cerebrospinal Fluid Dynamics, and Aqueductal Resistance in Young Healthy Adults.",
+    "topic": "stroke"
+  },
+  {
+    "pmid": "41044461",
+    "title": "Can multicontrast ultrafast brain MRI assist residents to triage intracranial emergencies with structured reporting?",
+    "topic": "stroke"
+  }
+]
