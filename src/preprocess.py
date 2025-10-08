@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Script to preprocess MRI datasets stored locally in the repository.
-- Reads images from /data/raw/
-- Normalizes and resizes them to 224x224 RGB
-- Saves processed images and metadata.csv
-
-"""
+from google.colab import drive
+drive.mount("/content/drive")
 
 import os
 from pathlib import Path
@@ -13,6 +7,7 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 from PIL import Image
+import json
 
 # optional: medical formats
 import pydicom, nibabel as nib
@@ -61,28 +56,36 @@ def process_folder(input_dir, output_dir, label):
                     "orig_file": str(f)
                 })
             except Exception as e:
-                print("Skipped:", f, "Error:", e)
+                print(" Skipped:", f, "Error:", e)
     return rows
 
-def run_preprocessing(input_dir, output_dir):
+def run_preprocessing(input_dir, output_dir, master_meta="metadata_images.json"):
     input_root = Path(input_dir)
     out_root = Path(output_dir)
     all_rows = []
+
     for child in input_root.iterdir():
         if child.is_dir():
             label = child.name
             out_dir = out_root / label
             rows = process_folder(child, out_dir, label)
             all_rows.extend(rows)
-    df = pd.DataFrame(all_rows)
-    if not df.empty:
-        df.to_csv(out_root.parent / "metadata.csv", index=False)
-        print("Saved metadata:", out_root.parent / "metadata.csv")
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--input_dir", required=True, help="Path to raw dataset folder")
-    parser.add_argument("--output_dir", required=True, help="Path to save processed images")
-    args = parser.parse_args()
-    run_preprocessing(args.input_dir, args.output_dir)
+    if all_rows:
+        master_path = out_root.parent / master_meta
 
+        # If file exists, load and append
+        if master_path.exists():
+            with open(master_path, "r") as f:
+                existing_data = json.load(f)
+        else:
+            existing_data = []
+
+        # Append new rows
+        existing_data.extend(all_rows)
+
+        # Save back to JSON
+        with open(master_path, "w") as f:
+            json.dump(existing_data, f, indent=2)
+
+        print(f"Updated metadata at {master_path} (total records: {len(existing_data)})")
