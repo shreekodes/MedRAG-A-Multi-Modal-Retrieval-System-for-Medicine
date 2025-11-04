@@ -1,0 +1,322 @@
+[
+  {
+    "image_id": "alz_26 (19)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (19).png",
+    "embedding_index": 0
+  },
+  {
+    "image_id": "alz_26 (20)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (20).png",
+    "embedding_index": 1
+  },
+  {
+    "image_id": "alz_26 (23)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (23).png",
+    "embedding_index": 2
+  },
+  {
+    "image_id": "alz_26 (24)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (24).png",
+    "embedding_index": 3
+  },
+  {
+    "image_id": "alz_moderateDem44",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_moderateDem44.png",
+    "embedding_index": 4
+  },
+  {
+    "image_id": "alz_moderateDem45",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_moderateDem45.png",
+    "embedding_index": 5
+  },
+  {
+    "image_id": "alz_moderateDem46",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_moderateDem46.png",
+    "embedding_index": 6
+  },
+  {
+    "image_id": "alz_moderateDem47",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_moderateDem47.png",
+    "embedding_index": 7
+  },
+  {
+    "image_id": "alz_26 (64)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (64).png",
+    "embedding_index": 8
+  },
+  {
+    "image_id": "alz_26 (65)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (65).png",
+    "embedding_index": 9
+  },
+  {
+    "image_id": "alz_26 (68)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (68).png",
+    "embedding_index": 10
+  },
+  {
+    "image_id": "alz_26 (69)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (69).png",
+    "embedding_index": 11
+  },
+  {
+    "image_id": "alz_26 (52)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (52).png",
+    "embedding_index": 12
+  },
+  {
+    "image_id": "alz_26 (53)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (53).png",
+    "embedding_index": 13
+  },
+  {
+    "image_id": "alz_26 (54)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (54).png",
+    "embedding_index": 14
+  },
+  {
+    "image_id": "alz_26 (55)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (55).png",
+    "embedding_index": 15
+  },
+  {
+    "image_id": "bt_gl-0003",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_gl-0003.png",
+    "embedding_index": 16
+  },
+  {
+    "image_id": "bt_gl-0012",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_gl-0012.png",
+    "embedding_index": 17
+  },
+  {
+    "image_id": "bt_gl-0019",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_gl-0019.png",
+    "embedding_index": 18
+  },
+  {
+    "image_id": "bt_gl-0032",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_gl-0032.png",
+    "embedding_index": 19
+  },
+  {
+    "image_id": "bt_me-0008",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_me-0008.png",
+    "embedding_index": 20
+  },
+  {
+    "image_id": "bt_me-0025",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_me-0025.png",
+    "embedding_index": 21
+  },
+  {
+    "image_id": "bt_me-0033",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_me-0033.png",
+    "embedding_index": 22
+  },
+  {
+    "image_id": "bt_me-0043",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_me-0043.png",
+    "embedding_index": 23
+  },
+  {
+    "image_id": "bt_no-0027",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0027.png",
+    "embedding_index": 24
+  },
+  {
+    "image_id": "bt_no-0033",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0033.png",
+    "embedding_index": 25
+  },
+  {
+    "image_id": "bt_no-0071",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0071.png",
+    "embedding_index": 26
+  },
+  {
+    "image_id": "bt_no-0129",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0129.png",
+    "embedding_index": 27
+  },
+  {
+    "image_id": "bt_no-0071",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0071.png",
+    "embedding_index": 28
+  },
+  {
+    "image_id": "bt_pi-0002",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_pi-0002.png",
+    "embedding_index": 29
+  },
+  {
+    "image_id": "bt_pi-0016",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_pi-0016.png",
+    "embedding_index": 30
+  },
+  {
+    "image_id": "bt_pi-0022",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_pi-0022.png",
+    "embedding_index": 31
+  },
+  {
+    "image_id": "alz_26 (19)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (19).png",
+    "embedding_index": 32
+  },
+  {
+    "image_id": "alz_26 (20)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (20).png",
+    "embedding_index": 33
+  },
+  {
+    "image_id": "alz_26 (23)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (23).png",
+    "embedding_index": 34
+  },
+  {
+    "image_id": "alz_26 (24)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (24).png",
+    "embedding_index": 35
+  },
+  {
+    "image_id": "alz_moderateDem44",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_moderateDem44.png",
+    "embedding_index": 36
+  },
+  {
+    "image_id": "alz_moderateDem45",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_moderateDem45.png",
+    "embedding_index": 37
+  },
+  {
+    "image_id": "alz_moderateDem46",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_moderateDem46.png",
+    "embedding_index": 38
+  },
+  {
+    "image_id": "alz_moderateDem47",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_moderateDem47.png",
+    "embedding_index": 39
+  },
+  {
+    "image_id": "alz_26 (64)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (64).png",
+    "embedding_index": 40
+  },
+  {
+    "image_id": "alz_26 (65)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (65).png",
+    "embedding_index": 41
+  },
+  {
+    "image_id": "alz_26 (68)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (68).png",
+    "embedding_index": 42
+  },
+  {
+    "image_id": "alz_26 (69)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (69).png",
+    "embedding_index": 43
+  },
+  {
+    "image_id": "alz_26 (52)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (52).png",
+    "embedding_index": 44
+  },
+  {
+    "image_id": "alz_26 (53)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (53).png",
+    "embedding_index": 45
+  },
+  {
+    "image_id": "alz_26 (54)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (54).png",
+    "embedding_index": 46
+  },
+  {
+    "image_id": "alz_26 (55)",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\alz\\alz_26 (55).png",
+    "embedding_index": 47
+  },
+  {
+    "image_id": "bt_gl-0003",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_gl-0003.png",
+    "embedding_index": 48
+  },
+  {
+    "image_id": "bt_gl-0012",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_gl-0012.png",
+    "embedding_index": 49
+  },
+  {
+    "image_id": "bt_gl-0019",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_gl-0019.png",
+    "embedding_index": 50
+  },
+  {
+    "image_id": "bt_gl-0032",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_gl-0032.png",
+    "embedding_index": 51
+  },
+  {
+    "image_id": "bt_me-0008",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_me-0008.png",
+    "embedding_index": 52
+  },
+  {
+    "image_id": "bt_me-0025",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_me-0025.png",
+    "embedding_index": 53
+  },
+  {
+    "image_id": "bt_me-0033",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_me-0033.png",
+    "embedding_index": 54
+  },
+  {
+    "image_id": "bt_me-0043",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_me-0043.png",
+    "embedding_index": 55
+  },
+  {
+    "image_id": "bt_no-0027",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0027.png",
+    "embedding_index": 56
+  },
+  {
+    "image_id": "bt_no-0033",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0033.png",
+    "embedding_index": 57
+  },
+  {
+    "image_id": "bt_no-0071",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0071.png",
+    "embedding_index": 58
+  },
+  {
+    "image_id": "bt_no-0129",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0129.png",
+    "embedding_index": 59
+  },
+  {
+    "image_id": "bt_no-0071",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_no-0071.png",
+    "embedding_index": 60
+  },
+  {
+    "image_id": "bt_pi-0002",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_pi-0002.png",
+    "embedding_index": 61
+  },
+  {
+    "image_id": "bt_pi-0016",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_pi-0016.png",
+    "embedding_index": 62
+  },
+  {
+    "image_id": "bt_pi-0022",
+    "filepath": "C:\\Users\\aditi\\OneDrive\\Desktop\\Med_RAG\\mri_ds\\processed\\bt\\bt_pi-0022.png",
+    "embedding_index": 63
+  }
+]
