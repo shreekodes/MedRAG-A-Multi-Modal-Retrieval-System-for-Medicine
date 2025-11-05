@@ -14,9 +14,9 @@ BASE_DIR = Path(__file__).parent
 EMB_DIR = BASE_DIR / "data" / "embeddings"
 FAISS_DIR = BASE_DIR / "data" / "FAISS_index"
 
-TEXT_EMB_PATH = EMB_DIR / "text_embeddings_demo.npy"
-TEXT_META_PATH = EMB_DIR / "text_meta_demo.json"
-TEXT_INDEX_PATH = FAISS_DIR / "text_index_demo.faiss"
+TEXT_EMB_PATH = EMB_DIR / "text_embeddings.npy"
+TEXT_META_PATH = EMB_DIR / "text_meta.json"
+TEXT_INDEX_PATH = FAISS_DIR / "text_index.faiss"
 
 # ---------------- Load models ----------------
 text_model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -55,4 +55,5 @@ iface = gr.Interface(
 )
 
 iface.launch()
+
 
