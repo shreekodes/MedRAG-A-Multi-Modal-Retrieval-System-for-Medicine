@@ -17,7 +17,7 @@ from generation import generate_summary
 
 app = FastAPI(title="MedRAG API", version="1.0")
 
-print("🚀 Initializing MedRAG backend...")
+print(" Initializing MedRAG backend...")
 
 # Load indexes and metadata once at startup
 text_index = load_faiss_index(TEXT_INDEX_PATH, TEXT_EMB_PATH)
@@ -45,3 +45,4 @@ def get_medical_answer(req: QueryRequest):
         "image_results": images,
         "answer": answer
     }
+
