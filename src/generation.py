@@ -9,17 +9,13 @@ from retrieval import (
     TEXT_META_PATH
 )
 
-# -------------------------------
 # LOAD SUMMARIZATION MODEL
-# -------------------------------
 
 MODEL_NAME = "google/flan-t5-small"
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
-
-# -------------------------------
+-
 # GENERATE SUMMARY
-# -------------------------------
 
 def generate_summary(papers, query):
     """
@@ -40,20 +36,19 @@ def generate_summary(papers, query):
     return answer
 
 
-# -------------------------------
 # MANUAL TESTING
-# -------------------------------
 
 if __name__ == "__main__":
-    print("🚀 Loading FAISS index and metadata for test...")
+    print("Loading FAISS index and metadata for test...")
     index = load_faiss_index(TEXT_INDEX_PATH, TEXT_EMB_PATH)
     meta = load_metadata(TEXT_META_PATH)
 
     while True:
-        query = input("\n💬 Enter a medical question (or 'exit'): ").strip()
+        query = input("\n Enter a medical question (or 'exit'): ").strip()
         if query.lower() == "exit":
             break
 
         papers = search_text(query, index, meta, top_k=5)
         answer = generate_summary(papers, query)
-        print("\n🧠 Answer:\n", answer)
+        print("\n Answer:\n", answer)
+
