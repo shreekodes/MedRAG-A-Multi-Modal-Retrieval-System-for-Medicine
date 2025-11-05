@@ -1,14 +1,15 @@
 import json, os, numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.preprocessing import normalize
-
+# Model text embeddings
 MODEL_NAME = "all-MiniLM-L6-v2" 
 
+#fetch metadata
 def load_docs(path="data/text_samples/abstracts_neuro.json"):
     with open(path, "r", encoding="utf-8") as f:
         docs = json.load(f)
     
-    texts = []
+    texts = [] 
     metas = []
     for d in docs:
         text = (d.get("title","") + ". " + d.get("abstract","")).strip()
