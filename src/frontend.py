@@ -87,7 +87,7 @@ with col3:
 
     if submit and query:
         try:
-            res = requests.post("http://127.0.0.1:8000/query", json={"query": query})
+            res = requests.post("http://127.0.0.1:8000/docs", json={"query": query})
             if res.status_code == 200:
                 data = res.json()
                 st.markdown(f"**AI Summary:**\n\n{data['generated_answer']}")
@@ -106,3 +106,4 @@ with col3:
     else:
         st.info("Enter a query and click Search to fetch results.")
     st.markdown('</div>', unsafe_allow_html=True)
+
