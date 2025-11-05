@@ -1,5 +1,6 @@
 numpy
 pandas
+gradio
 pillow
 tqdm
 matplotlib
@@ -17,4 +18,5 @@ fastapi
 uvicorn
 opencv-python
 pillow
+
 
